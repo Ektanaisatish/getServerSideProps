@@ -1,0 +1,20 @@
+.layout-header {
+background-color:  beige;
+color: rgb(240, 184, 184);
+padding: 30px;
+text-align: center;
+font-size: 30;
+}
+.layout-footer {
+background-color: beige;
+color: rgb(233, 172, 172);
+padding: 30px;
+text-align: center;
+font-size: 30;
+}
+.content {
+    display: flex;
+    justify-content: center;
+    min-height: 100vh;
+    align-items: center;
+}

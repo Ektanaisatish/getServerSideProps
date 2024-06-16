@@ -1,0 +1,129 @@
+{
+    "events": [
+        {
+            "id": 1,
+            "title": "Article1",
+            "description": "ttty description 1",
+            "category": "sports",
+            "date": "1 January"
+        },
+        {
+            "id": 2,
+            "title": "Article2",
+            "description": "Description of Article 2",
+            "category": "technology",
+            "date": "5 February"
+        },
+        {
+            "id": 3,
+            "title": "Article3",
+            "description": "Description of Article 3",
+            "category": "health",
+            "date": "10 March"
+        },
+        {
+            "id": 4,
+            "title": "Article4",
+            "description": "Description of Article 4",
+            "category": "entertainment",
+            "date": "15 April"
+        },
+        {
+            "id": 5,
+            "title": "Article5",
+            "description": "Description of Article 5",
+            "category": "politics",
+            "date": "20 May"
+        },
+        {
+            "id": 6,
+            "title": "Article6",
+            "description": "Description of Article 6",
+            "category": "science",
+            "date": "25 June"
+        },
+        {
+            "id": 7,
+            "title": "Article7",
+            "description": "Description of Article 7",
+            "category": "education",
+            "date": "30 July"
+        },
+        {
+            "id": 8,
+            "title": "Article8",
+            "description": "Description of Article 8",
+            "category": "travel",
+            "date": "4 August"
+        },
+        {
+            "id": 9,
+            "title": "Article9",
+            "description": "Description of Article 9",
+            "category": "sports",
+            "date": "9 September"
+        },
+        {
+            "id": 10,
+            "title": "Article10",
+            "description": "Description of Article 10",
+            "category": "food",
+            "date": "14 October"
+        }
+    ],
+
+    "dashboard":{
+    "posts":33,
+    "likes":44,
+    "followers":46,
+    "following":7
+    },
+    "news":[
+        {
+            "id":1,
+            "title":"Article1",
+            "description":" ttty description 1",
+            "category":"sports"
+        },
+        {
+            "id":2,
+            "title":"Article2",
+            "description":"description 2",
+            "category":"politics"
+        },
+        {
+            "id":3,
+            "title":"Article3",
+            "description":"description 3",
+            "category":"sports"
+        },
+        {
+            "id":4,
+            "title":"Article4",
+            "description":"description 1",
+            "category":"Cat4"
+        },
+        {
+            "id":5,
+            "title":"Article5",
+            "description":"description 1",
+            "category":"Cat5"
+        }],
+        "products":[
+            {
+                "id":1,
+            "title":"Product1",
+            "description":"description 1"
+            },  {
+                "id":2,
+            "title":"Product1",
+            "description":"description 1"
+            },  {
+                "id":3,
+            "title":"Product1",
+            "description":"description 1"
+            }
+
+        ]
+    
+}
